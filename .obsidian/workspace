@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "48c19e5955e36135",
+    "type": "split",
+    "children": [
+      {
+        "id": "c074a3d6c185d57c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d39d1049d57f25b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d79ce5ef961d177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d498d0b178b3b51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "744101d47630bd03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13170fb58e166356",
+    "type": "split",
+    "children": [
+      {
+        "id": "c339142925ab9187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e75ee999f69b80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c074a3d6c185d57c",
+  "lastOpenFiles": [
+    "Sea.md",
+    "Tang Tang.md",
+    "Juneau.md",
+    "Namhom.md",
+    "Aungoei.md",
+    "August.md",
+    "Fong Fong.md",
+    "Yada.md",
+    "Titan.md",
+    "Moddaeng.md"
+  ]
+}
