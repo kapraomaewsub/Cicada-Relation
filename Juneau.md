@@ -1,5 +1,5 @@
 - [[Geo]]
-- [[Tang Tang]]
+- [[TangTang]]
 - [[Poon]]
 - [[Aungoei]]
 - [[Noolyn]]

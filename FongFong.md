@@ -1,4 +1,3 @@
 - [[Pun]]
-- [[Sera]]
 - [[Poon]]
 - [[Titan]]

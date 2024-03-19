@@ -1,3 +1,3 @@
 - [[Tuang]]
 - [[Sea]]
-- [[Tang Tang]]
+- [[TangTang]]

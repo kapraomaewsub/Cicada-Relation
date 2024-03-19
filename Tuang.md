@@ -1,4 +1,4 @@
 - [[Sea]]
 - [[Kumlai]]
-- [[Tang Tang]]
+- [[TangTang]]
 - [[Noolyn]]

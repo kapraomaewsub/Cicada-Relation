@@ -1,6 +1,6 @@
 - [[Pluem]]
 - [[August]]
-- [[Fong Fong]]
+- [[FongFong]]
 - [[Neo]]
 - [[Moddaeng]]
-- [[Tang Tang]]
+- [[TangTang]]

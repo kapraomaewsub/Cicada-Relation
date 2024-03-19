@@ -1,4 +1,4 @@
 - [[Noolyn]]
-- [[Tang Tang]]
+- [[TangTang]]
 - [[Yada]]
 - [[Pun]]

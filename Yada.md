@@ -1,4 +1,3 @@
 - [[Titan]]
 - [[Moddaeng]]
 - [[Sera]]
-- [[Geo]]

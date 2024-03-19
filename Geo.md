@@ -1,4 +1,3 @@
 - [[Juneau]]
 - [[Poon]]
-- [[Yada]]
 - [[Sera]]
